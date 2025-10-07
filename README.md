@@ -166,13 +166,13 @@ lib/
 ## Screenshots
 <p align="center">
 
-<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/splash.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/home.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/home%20%E2%80%93categorized.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/home%20%E2%80%93side%20menu.png" width="120"/>
-<img src=" https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/settings.png" widtg="120"/>
-<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/home%20%E2%80%93search.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/Article.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/splash.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/home.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/home%20%E2%80%93categorized.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/home%20%E2%80%93side%20menu.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/settings.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/home%20%E2%80%93search.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/magazine_new_app/blob/main/screeshoots/Article.png" width="100"/>
 </p>
 
 
