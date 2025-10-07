@@ -1,0 +1,21 @@
+{
+  "appbartitle":"News",
+  "science":"العلوم",
+  "sports": "رياضه",
+  "business": "اعمال",
+  "general": "عام",
+  "health": "صحه",
+  "science": "علوم",
+  "entertainment": "ترفيه",
+  "technology": "تكنولوجيا",
+  "newsapp": "اخبار العالم",
+  "settings": "الاعدادات",
+  "category": "فئات",
+  "theme": "الوضع",
+  "language": "اللغه",
+  "english": "انجليزي",
+  "arabic": "عربي",
+  "title": "اختر فئة اهتمامك",
+  "light": "فاتح",
+  "dark": "داكن"
+}
